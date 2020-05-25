@@ -2,7 +2,7 @@
 Simple Calculator to perform Basic Operation
 
 Here i have created Simple Calculator to perform Basic Operation.
-By creating this small application you'll Learn the Basics of tkinter. 
+By creating this small application you'll Learn tkinter easy way. 
 
 # prerequisits
 
