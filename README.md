@@ -13,5 +13,5 @@ By creating this small application you'll Learn tkinter in an easy way.
   *tkinter*
   
 # For more Such Projects Follow this Link :
-https://www.instagram.com/coding_disco/
+[GitHub] (https://www.instagram.com/coding_disco/)
 
