@@ -8,5 +8,5 @@ By creating this small application you'll Learn tkinter easy way.
 
 * python3
 * Modules Required :
-  tkinter
+  *tkinter*
 
