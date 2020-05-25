@@ -11,4 +11,7 @@ By creating this small application you'll Learn tkinter in an easy way.
 * python3
 * Modules Required :
   *tkinter*
+  
+# For more Such Projects Follow this Link :
+https://www.instagram.com/coding_disco/
 
